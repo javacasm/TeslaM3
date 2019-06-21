@@ -14,7 +14,7 @@
 
 ## [modelo V0](https://www.tinkercad.com/things/5OXr3Dk1h3s)
 
-![modelo mio](images/modelov0.png)
+![modelo mio](../images/modelov0.png)
 
 ### Problemas
 
